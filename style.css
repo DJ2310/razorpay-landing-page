@@ -268,7 +268,8 @@
     align-items: center;
     justify-content: center;
     background-image: url(footer-head-bg.990e26df.svg);
-    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
     color: white;
     margin: auto;
     height: 69vh;
